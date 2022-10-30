@@ -1,4 +1,3 @@
 # digital-business-card
 
-# link to live site
-loganst-john.netlify.app
+<a href="loganst-john.netlify.app">Link to live site</a>
