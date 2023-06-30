@@ -10,7 +10,7 @@ export default function Info() {
             <a href='https://www.devtivity.com' target='_blank' className='info--website'>devtivity.com</a>
             <div className='info--inner-container'>
                 <a href="mailto:logan@devtivity.com" className='info--email'><i className="fa-solid fa-envelope"></i>Email</a>
-                <a href="https://www.linkedin.com/in/logan-st-john-665709200/" target='_blank' className='info--linkedin'><i className="fa-brands fa-linkedin"></i>LinkenIn</a>
+                <a href="https://www.linkedin.com/in/logan-st-john-665709200/" target='_blank' className='info--linkedin'><i className="fa-brands fa-linkedin"></i>LinkedIn</a>
             </div>
         </div>
     )
